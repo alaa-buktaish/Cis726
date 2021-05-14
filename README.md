@@ -1,6 +1,4 @@
-In December 2019, the Corona pandemic began sweeping the world, and there was a need
-for a vaccine that works to reduce the symptoms of infection and reduce hospitalizations and
-deaths. In this project we provide a dataset containing tweets with Jordanian opinions about
+In this project we provide a dataset containing tweets with Jordanian opinions about
 Covid-19 vaccines, and we classify these tweets, which is supervised learning classification task
 using pre-trained model into five classes to determine whether the tweet sentiment is (very
 positive, positive, mixed-neutral, negative, very negative). The model trained and tested using
