@@ -1,4 +1,4 @@
-##### This projict is part of Data Exploration & Visualization course.
+##### This project is part of Data Exploration & Visualization course.
 In this project we provide a dataset containing tweets with Jordanian opinions about
 Covid-19 vaccines, and we classify these tweets, which is supervised learning classification task
 using pre-trained model into five classes to determine whether the tweet sentiment is (very
